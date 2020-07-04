@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import { Grid } from 'gridjs'
+import { Grid, html } from 'gridjs'
 import { nanoid } from 'nanoid'
 import elementReady from 'element-ready'
 
